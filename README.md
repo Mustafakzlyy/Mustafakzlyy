@@ -88,5 +88,5 @@
 
 ---
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0cmR6Yjk0Y214NXN5ZXB5b3V5bXN5bXN5bXN5bXN5bXN5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aCSPZpsm654fyU0/giphy.gif" width="60%" alt="Hızlı Yılan Oyunu" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Yılan Oyunu" width="100%" />
 </div>
