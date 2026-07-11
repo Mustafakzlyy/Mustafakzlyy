@@ -88,19 +88,8 @@
 
 ---
 
-## 📊 Analytical Intelligence & System Metrics
-
-<div align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="180px" />
-  
-  <br/><br/>
-  
- 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" width="100%" />
-  <br/><br/>
-
-  <h3>📊 Mustafa's Contribution Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&area=true&hide_border=true&bg_color=0d1117" width="100%" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KENDI_GITHUB_KULLANICI_ADIN/KENDI_GITHUB_KULLANICI_ADIN/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KENDI_GITHUB_KULLANICI_ADIN/KENDI_GITHUB_KULLANICI_ADIN/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Readme Snake" src="https://raw.githubusercontent.com/KENDI_GITHUB_KULLANICI_ADIN/KENDI_GITHUB_KULLANICI_ADIN/output/github-contribution-grid-snake.svg">
+</picture>
