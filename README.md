@@ -13,9 +13,7 @@
 
   <!-- SOCIAL BADGES -->
   <a href="www.linkedin.com/in/mustafakızılay000"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="YOUR_MEDIUM_URL"><img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
   <a href="(https://mustafakizilay.online)"><img src="https://img.shields.io/badge/PORTFOLIO-00AAAA?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/CONTACT-FF4500?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ---
