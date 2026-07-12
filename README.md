@@ -68,12 +68,6 @@
 ---
 
 
-<details>
-<summary>🧠 <b>Intelligence, Data Science & Neural Networks</b></summary>
-<br/>
-<p>Projelerinizi buraya ekleyebilirsiniz.</p>
-</details>
-
 ---
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Yılan Oyunu" width="100%" />
