@@ -67,18 +67,6 @@
 
 ---
 
-## 📂 Strategic Systems Portfolio
-
-<details>
-<summary>🤖 <b>Robotics & Autonomous Intelligence</b></summary>
-<br/>
-
-| Project | Core Technology |
-| :--- | :--- |
-| **Autonomous Navigation** | 
-| **Formula Student Autonomous** | 
-| **UAV Rover GCS** | 
-</details>
 
 <details>
 <summary>🧠 <b>Intelligence, Data Science & Neural Networks</b></summary>
