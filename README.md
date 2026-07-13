@@ -13,7 +13,7 @@
 
   <!-- SOCIAL BADGES -->
   <a href="www.linkedin.com/in/mustafakızılay000"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="(https://mustafakizilay.online)"><img src="https://img.shields.io/badge/PORTFOLIO-00AAAA?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="(https://mustafakizilay.online)"><img src="https://mustafakizilay.online&logo=google-chrome&logoColor=white" /></a>
 </div>
 
 ---
