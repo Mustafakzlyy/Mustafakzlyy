@@ -51,7 +51,7 @@ Merhaba! Ben Mustafa. Yapay zeka teknolojileri geliştirirken; **Oyun Geliştirm
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafakizilay&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafakzlyy&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
