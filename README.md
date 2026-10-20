@@ -6,8 +6,8 @@
 
   <!-- SOCIAL BADGES -->
   <p>
-    <a href="https://linkedin.com/in/kizilaymustafa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/mustafakizilay"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/mustafakızılay000"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/mustafakzlyy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 
 </div>
@@ -23,7 +23,7 @@ Merhaba! Ben Mustafa. Yapay zeka teknolojileri geliştirirken; **Oyun Geliştirm
 
 ### 🎮 Oyun Geliştirme (Game Dev)
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender,csharp,cpp" />
+  <img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender,cpp" />
 </p>
 
 ### ⛓️ Blockchain & Web3
