@@ -1,72 +1,58 @@
 <div align="center">
+  
   <!-- HEADER BANNER -->
-  <table width="100%">
-    <tr>
-      <td align="center" bgcolor="#0d1117" style="padding: 30px;">
-        <h1>🚀 Mustafa Kızılay</h1>
-        <p><strong>AI Developer | ROS2, C++, Embedded Systems</strong></p>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
+  <h1>🚀 Mustafa Kızılay</h1>
+  <p><strong>AI Developer | Game Dev, Blockchain & Open Source Enthusiast</strong></p>
 
   <!-- SOCIAL BADGES -->
-  <a href="www.linkedin.com/in/mustafakızılay000"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://mustafakizilay.online"><img src="https://mustafakizilay.online&logo=google-chrome&logoColor=white" /></a>
+  <p>
+    <a href="https://linkedin.com/in/kizilaymustafa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/mustafakizilay"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
+
 </div>
 
 ---
 
-## 🛠️ DTechnical Ecosystem
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>👑 Core Languages & Logic</h3>
-      <img src="https://skillicons.dev/icons?i=py,cpp,c,cs,js,ts,rust,go,html,css" width="100%" />
-    </td>
-    <td width="33%" valign="top">
-      <h3>🧠 AI, Data & Intelligence</h3>
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn,matlab" width="100%" />
-    </td>
-    <td width="33%" valign="top">
-      <h3>🌐 Infra, Cloud & DevOps</h3>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,githubactions,linux,nginx" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>📱 Web, Mobile & Runtimes</h3>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,electron" width="100%" />
-    </td>
-    <td width="33%" valign="top">
-      <h3>📟 Embedded, IoT & OS</h3>
-      <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,linux,ubuntu" width="100%" />
-    </td>
-    <td width="33%" valign="top">
-      <h3>🎨 Tools & Design Suite</h3>
-      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,postman,figma,ps,ai" width="100%" />
-    </td>
-  </tr>
-</table>
+## 👨‍💻 Hakkımda
+Merhaba! Ben Mustafa. Yapay zeka teknolojileri geliştirirken; **Oyun Geliştirme**, **Blockchain / Web3**, **Açık Kaynak (Open Source)** projeler ve **Mobil Uygulama** geliştirme alanlarına odaklanıyorum. Modern teknolojileri keşfetmeyi ve topluluk odaklı projeler üretmeyi seviyorum.
 
 ---
 
-## 🚀 High-Impact Architectures (2026 Core Initiatives)
+## 🛠️ Kullanıdığım Teknolojiler & İlgi Alanlarım
 
-| Core Initiatives (2026) | System Focus | Technological Core | Operational Health |
-| :--- | :--- | :--- | :--- |
-| **CyberShield.Mesh** | Zero-Trust Network Security | `ebpf` `rust.kernel` `wasm` | 🟢 Active |
-| **NeuroForge.LLM** | Distributed Model Quantization | `vllm` `triton` `pytorch` | 🟢 Nominal |
-| **QuantTrade.Core** | High-Frequency Order Matching | `c++23` `lock-free` `fpga` | 🟡 Deployed |
-| **OmniDrive.AV** | Sensor Fusion for Urban Driving | `lidar` `yolov10` `tensorrt` | 🟢 Production |
-| **BlockSync.Ledger** | High-Throughput Consensus Engine | `go` `raft.consensus` `grpc` | 🔵 Verified |
-| **CloudPulse.FinOps** | Multi-Cloud Cost Optimization | `kubernetes` `prometheus` `go` | 🟢 Nominal |
-| **BioInformatics.Gen** | Genomic Sequence Alignment | `cuda` `opencl` `python.mpi` | 🔵 Conceptual |
+### 🎮 Oyun Geliştirme (Game Dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender,csharp,cpp" />
+</p>
+
+### ⛓️ Blockchain & Web3
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity,eth,rust,go,git,docker" />
+</p>
+
+### 📱 Mobil Uygulama Geliştirme
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react,kotlin,swift,js,ts" />
+</p>
+
+### 🌐 Açık Kaynak & Genel Programlama Dilleri
+<p>
+  <img src="https://skillicons.dev/icons?i=py,cpp,rust,go,ts,js,html,css" />
+</p>
+
+### 🧠 Yapay Zeka & Araçlar
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,vscode,githubactions,linux" />
+</p>
 
 ---
 
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafakizilay&show_icons=true&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 <div align="center">
