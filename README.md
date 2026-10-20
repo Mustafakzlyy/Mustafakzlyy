@@ -28,7 +28,7 @@ Merhaba! Ben Mustafa. Yapay zeka teknolojileri geliştirirken; **Oyun Geliştirm
 
 ### ⛓️ Blockchain & Web3
 <p>
-  <img src="https://skillicons.dev/icons?i=solidity,eth,rust,go,git,docker" />
+  <img src="https://skillicons.dev/icons?i=solidity,rust,go,git,docker" />
 </p>
 
 ### 📱 Mobil Uygulama Geliştirme
