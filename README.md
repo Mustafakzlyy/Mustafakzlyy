@@ -46,13 +46,6 @@ Merhaba! Ben Mustafa. Yapay zeka teknolojileri geliştirirken; **Oyun Geliştirm
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,vscode,githubactions,linux" />
 </p>
 
----
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafakzlyy&show_icons=true&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 <div align="center">
