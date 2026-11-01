@@ -5,10 +5,6 @@
   <p><strong>AI Developer | Game Dev, Blockchain & Open Source Enthusiast</strong></p>
 
   <!-- SOCIAL BADGES -->
-  <p>
-    <a href="https://linkedin.com/in/mustafakızılay000"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/mustafakzlyy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  </p>
 
 </div>
 
